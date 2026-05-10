@@ -18,3 +18,5 @@
 ---
 **技术关键词：**
 WS劫持号, ws群发,拉群,FB劫持号群发/拉群, TG劫持号,群发/拉群, 协议号登录, 云端协议, 会话提取, 批量登录技术, Session迁移, 实时号协议。
+---
+相关资源：[点击查看全球全平台群发系统方案](https://github.com/liufengniubi8-dev/ultra-sender-pro-bulk-message-protocol-ws-fb-tg-mass-messaging-system)
